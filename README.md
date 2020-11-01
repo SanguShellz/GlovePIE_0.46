@@ -1,6 +1,4 @@
-On Jan 03, 2012, GlovePIE 0.46 was provided as an zipped executable which was submitted in a post titled "Wii Remote Plus" on the GlovePIE Blog.  The update also provided addtional support for Kinect which wasn't documented.   The GlovePIE 0.46 executable was merged with 0.45.  Enjoy.  
-
-Contents of post:
+Developer blog post submitted January 04, 2012
 
 There are two new versions of the Wiimote out now that have the Wii Motion Plus built into the Wii Remote itself. Both versions look like a regular Wii Remote, but with writing in a semicircle around the Wii logo at the bottom of the Wii Remote.
 
