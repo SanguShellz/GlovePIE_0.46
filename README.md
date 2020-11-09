@@ -6,8 +6,4 @@ The first version is the original “Wii Remote Plus”, which behaves almost ex
 
 The second version is the newer “Wii Remote Plus TR”, which doesn’t work with most PC software or with Wii Homebrew Channel, but works fine on all Wii Games, no matter how old. The packaging and outside is identical to the older version. This newer version came out in November. It seems to come in every colour EXCEPT GOLD. When connected to your computer, it says “RVL-CNT-01-TR”, and the PID will be 330H instead of 306H. If you open the battery compartment it has the code “LMB-RVL-WR/Z-C4″, or “LMB-RVL-WR/Z-C6″. A FEW (but not most) of these have a SYNC button on the OUTSIDE of the battery case.
 
-If you have a Wii Remote Plus TR then GlovePIE 0.45 won’t work for you. But I made some modifications to use the new Product ID and the new Bluetooth name. I don’t know if that will be enough to make it work or not. Please test this new EXE file (you’ll need to put it with the contents of the GlovePIE 0.45 zip file too):
-
-TestWiimotePlusTR.zip
-
-and let me know how it works.
+If you have a Wii Remote Plus TR then GlovePIE 0.45 won’t work for you. But I made some modifications to use the new Product ID and the new Bluetooth name. I don’t know if that will be enough to make it work or not. 
