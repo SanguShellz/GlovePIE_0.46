@@ -1,4 +1,4 @@
-Developer blog post submitted January 04, 2012
+Developer blog post submitted January 03, 2012
 
 There are two new versions of the Wiimote out now that have the Wii Motion Plus built into the Wii Remote itself. Both versions look like a regular Wii Remote, but with writing in a semicircle around the Wii logo at the bottom of the Wii Remote.
 
